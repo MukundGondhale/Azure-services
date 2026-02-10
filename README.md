@@ -1,4 +1,3 @@
-# Azure-services
 # Microsoft Azure Cloud Experience & Services Overview
 
 This repository outlines comprehensive hands-on experience across the **Microsoft Azure ecosystem**, covering cloud infrastructure, application platforms, data & analytics, security, automation, DevOps, and AI services. The experience reflects enterprise-scale Azure implementations, migrations, and operations aligned with best practices for scalability, security, resilience, and cost optimization.
