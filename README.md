@@ -190,5 +190,3 @@ This repository outlines comprehensive hands-on experience across the **Microsof
 This repository represents deep expertise across **Azure infrastructure, PaaS, data platforms, security, DevOps, AI, and hybrid cloud**, enabling design and operation of secure, scalable, and enterprise-grade Azure solutions.
 
 ---
-
-*This README can be reused for GitHub profiles, project documentation, cloud portfolios, or professional resumes.*
